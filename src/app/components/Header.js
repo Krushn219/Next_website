@@ -18,7 +18,7 @@ const Header = () => {
           <Link
             href={"/"}
             className={mulish.className}
-            style={{ "font-weight": "700" }}
+            style={{ "font-weight": "700", "font-size": 30, color: "red" }}
           >
             {/* <Image src="/logo.png" alt="Logo" width={150} height={40} /> */}
             Krushna<span style={{ color: "white" }}>vandan</span>
