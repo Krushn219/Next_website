@@ -1,0 +1,5 @@
+https://loading.io/css/
+
+https://www.shapedivider.app/
+
+https://react-icons.github.io/react-icons/icons?name=fa
